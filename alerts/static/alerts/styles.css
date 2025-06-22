@@ -1,0 +1,16 @@
+.alert-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.alert-box h3 {
+    color: #007BFF;
+    margin-bottom: 5px;
+}
+
+.alert-box p {
+    margin: 3px 0;
+}
