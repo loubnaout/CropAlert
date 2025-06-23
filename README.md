@@ -53,7 +53,7 @@ Develop a real-time platform where:
 - Open your terminal and run:
 
 cd cropalert
-python server.py
+python server.py #or python3 server.py
 
 Using your file explorer (not the terminal):
   - Navigate to the cropalert/alertts folder.
