@@ -131,7 +131,12 @@ Manage user authentication
 #### 📍 Location Services
 
 - Ensure your **browser has location permissions**  
-- Verify **device GPS is enabled** if using geolocation  
+- Verify **device GPS is enabled** if using geolocation
+  
+📱 Mobile Compatibility
+
+CropAlert is fully optimized for mobile devices, offering a seamless user experience on smartphones and tablets. The responsive design ensures that all features—including maps, alerts, and real-time notifications—work smoothly across different screen sizes.
+
 
 
 ## 🎥 Live Demo
