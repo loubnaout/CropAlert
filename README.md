@@ -57,9 +57,9 @@ python server.py
 
 Using your file explorer (not the terminal):
   - Navigate to the cropalert/alertts folder.
-  - Locate the alerts.html file, right-click it, and choose "Open with Chrome" (or your preferred browser).
+  - Locate the alerts.html file, right-click it, and choose "Open with firefox" (or your preferred browser).
   - Copy the URL from the browser’s address bar
-  - Open a new browser window or a different browser.
+  - Open a new browser window.
   - Paste the copied URL to open a second instance of the app.
 
 This way you can simulate both:
@@ -108,6 +108,31 @@ For full functionality, this frontend requires a WebSocket server running at ws:
 Handle WebSocket connections
 
 Manage user authentication
+
+## 🔧 Troubleshooting  
+### Common Issues
+
+#### 🔐 Login Problems
+
+- Ensure you're using the correct **username/password** combination  
+- Verify you've selected the correct **role** (Farmer / Agronomist)  
+
+#### 🗺️ Map Not Loading
+
+- Check your **internet connection**  
+- Ensure your **browser allows content** from OpenStreetMap  
+
+#### 🚨 Alerts Not Received
+
+- Verify the **WebSocket server is running** 
+- Check if **browser notifications** are enabled  
+- Look for the **notification badge** in the sidebar  
+
+#### 📍 Location Services
+
+- Ensure your **browser has location permissions**  
+- Verify **device GPS is enabled** if using geolocation  
+
 
 ## 🎥 Live Demo
 
