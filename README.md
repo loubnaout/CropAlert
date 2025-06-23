@@ -17,9 +17,9 @@ Develop a real-time platform where:
 
 ### ⚡ Real-time Communication
 
-- Uses WebSocket for instant, persistent, bi-directional updates
-
-- Enables real-time alerts and interactive user experience
+- **Real-time alert delivery** from agronomists → farmers
+- **Instant notification system** without page refreshes
+- **Efficient communication** for time-sensitive agricultural warnings
 
 ### ✨ Animated UI Features
 
