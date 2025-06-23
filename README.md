@@ -23,23 +23,15 @@ Develop a real-time platform where:
 
 ### ✨ Animated UI Features
 
-## ✨ Animation & UX Improvements
+✨ Animation & UX Improvements
 
 - Smooth, functional animations for interactive elements and transitions
 
 - Purposeful motion highlights alerts, map markers,
 
-- Mobile-friendly animations with lightweight CSS, reduced motion support, and touch-optimized triggers
-- 
-## 🌄 Animated Intro Sequence
+- Mobile-friendly animations with lightweight CSS, reduced motion support, and touch-optimized triggers'
 
-AgroExpert incorporates smooth animations to enhance usability and provide visual feedback:
-
-- ## ☁️ Floating clouds: Creates a peaceful agricultural atmosphere
-
-- ## 🌞 Pulsing sun: Adds vitality to the welcome screen
-- 
----
+- Animated Intro Sequence
 
 ## 🚀 Features
 
