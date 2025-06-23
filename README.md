@@ -12,7 +12,7 @@ Develop a real-time platform where:
 
 ---
 
-> 💡 **Stack:** Python , HTML5 , CSS, JavaScript (ES6+) - For all interactive functionality, WebSocket, Leaflet.js , OpenStreetMap – No framework used (client-side only)
+> 💡 **Stack:** Python , HTML5 , CSS, JavaScript (ES6+) - For all interactive functionality, WebSocket, Leaflet.js , OpenStreetMap
 
 ---
 
@@ -21,7 +21,6 @@ Develop a real-time platform where:
 ### 👥 Role-Based Access
 - **Farmer Login:** `username=farmer`, `password=1234`  
 - **Agronomist Login:** `username=agronomist`, `password=1234`
-![Screenshot from 2025-06-23 10-55-02](https://github.com/user-attachments/assets/3698c690-b2cc-4c60-af84-0c2a9f1f4911)
 
 ### 📲 Real-time Communication
 - Instant alerts using WebSocket
@@ -58,7 +57,7 @@ python server.py
 
 Using your file explorer (not the terminal):
   - Navigate to the cropalert/alertts folder.
-  - Locate the index.html file, right-click it, and choose "Open with Chrome" (or your preferred browser).
+  - Locate the alerts.html file, right-click it, and choose "Open with Chrome" (or your preferred browser).
   - Copy the URL from the browser’s address bar
   - Open a new browser window or a different browser.
   - Paste the copied URL to open a second instance of the app.
@@ -68,24 +67,31 @@ This way you can simulate both:
 👨‍🌾 Farmer interface
 👨‍🔬 Agronomist interface
 
+![two-windows](https://github.com/user-attachments/assets/c7280c9c-3de5-412f-9877-f1184d3aa8f5)
+
 ## 📖 Usage Instructions
 
 ### 🔓 Authentication
-1. Click **Get Started** on the animated intro screen  
-2. Select your role: **Farmer** on one side, and **Agronomist** on the other**Agronomist**  
-3. Enter login credentials provided above
-
+1. Click **Get Started** on the animated intro screen
+![intro](https://github.com/user-attachments/assets/ac5aed85-e4da-4959-a627-3c4b72278ccf)
+2. Select your role: **Farmer** on one side, and **Agronomist** on the other**Agronomist**
+![choose-who](https://github.com/user-attachments/assets/d99ca208-029e-44d3-b28e-ce5d8572314e)
+4. Enter login credentials provided above
+![login](https://github.com/user-attachments/assets/544c0709-090e-44f9-81c6-3637ed8c71e7)
 ### 📡 Real-time Dashboard
 - Farmers: Receive and view alerts
 - Agronomists: Create and send alerts to specific zones
+![dash-farmer](https://github.com/user-attachments/assets/ba12a7ca-75e4-4a61-8b38-2c939f64fed7) ![dash-agronomist](https://github.com/user-attachments/assets/2a009e1b-4233-468c-af72-7d5f472c864d)
 
 ### 📍 Location & Filtering
-- Click **Mark Location** to allow geolocation  
-- View and filter alerts on an interactive map
-
----
+- View and filter alerts on an interactive map and create msg
+- Click **Mark Location** to allow geolocation
+![choose-agro](https://github.com/user-attachments/assets/acab5254-644c-4a3e-a45d-4503cd13b52d)
+- send alert
+![agro-farm-done](https://github.com/user-attachments/assets/fe41c1d0-f5b6-499e-b28d-4b5bbd2f84f9)
 
 ## ⚙️ Backend Integration
+
 
 For full functionality, this frontend requires a WebSocket server running at ws://localhost:8767. The backend should:
 
@@ -93,6 +99,13 @@ Handle WebSocket connections
 
 Manage user authentication
 
+
 Route messages between farmers and agronomists
+
+
+
+
+
+
 
 
