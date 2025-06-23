@@ -21,6 +21,7 @@ Develop a real-time platform where:
 ### 👥 Role-Based Access
 - **Farmer Login:** `username=farmer`, `password=1234`  
 - **Agronomist Login:** `username=agronomist`, `password=1234`
+![Screenshot from 2025-06-23 10-55-02](https://github.com/user-attachments/assets/3698c690-b2cc-4c60-af84-0c2a9f1f4911)
 
 ### 📲 Real-time Communication
 - Instant alerts using WebSocket
