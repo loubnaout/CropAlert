@@ -47,7 +47,7 @@ Develop a real-time platform where:
 
 ---
 
-## 📦 Installation
+## 📦 Instructions
 
 - Run the App Locally (With WebSocket Server)
 - Open your terminal and run:
@@ -73,8 +73,9 @@ This way you can simulate both:
 
 ### 🔓 Authentication
 1. Click **Get Started** on the animated intro screen
+
 ![intro](https://github.com/user-attachments/assets/ac5aed85-e4da-4959-a627-3c4b72278ccf)
-2. Select your role: **Farmer** on one side, and on the other **Agronomist**
+3. Select your role: **Farmer** on one side, and on the other **Agronomist**
 ![choose-who](https://github.com/user-attachments/assets/d99ca208-029e-44d3-b28e-ce5d8572314e)
 4. Enter login credentials provided above
 
