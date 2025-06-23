@@ -135,7 +135,7 @@ Manage user authentication
   
 📱 Mobile Compatibility
 
-CropAlert is fully optimized for mobile devices, offering a seamless user experience on smartphones and tablets. The responsive design ensures that all features—including maps, alerts, and real-time notifications—work smoothly across different screen sizes.
+AgroExpert is fully optimized for mobile devices, offering a seamless user experience on smartphones and tablets. The responsive design ensures that all features—including maps, alerts, and real-time notifications—work smoothly across different screen sizes.
 
 
 
