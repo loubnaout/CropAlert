@@ -1,4 +1,4 @@
-# 🌾 AgroExpert – CropAlert Platform
+# 🌾🚜  AgroExpert – CropAlert Platform 🌾🚜
 
 AgroExpert is a collaborative web platform designed to connect **agronomists** and **farmers**. It enables real-time publication and reception of geo-tagged agricultural alerts, supporting effective crop management and rapid response to threats such as pests, diseases, and weather conditions.
 
@@ -86,7 +86,7 @@ This way you can simulate both:
 - Agronomists: Create and send alerts to specific zones
 ![Screenshot from 2025-06-23 13-02-26](https://github.com/user-attachments/assets/1938cd87-85de-496f-a140-06127c180469)
 
-### 📍 Location & Filtering
+### 📍 Geolocation & Filtering
 - View and filter alerts on an interactive map and create msg
 - Click **Mark Location** to allow geolocation
 ![choose-agro](https://github.com/user-attachments/assets/acab5254-644c-4a3e-a45d-4503cd13b52d)
@@ -102,8 +102,10 @@ Handle WebSocket connections
 
 Manage user authentication
 
+## 🎥 Live Demo
 
-Route messages between farmers and agronomists
+📽️ A short video demo showing real-time alert usage, geolocation, and farmer-agronomist interaction will be sent via email.
+📧 Please check your inbox after reviewing this README.
 
 
 
