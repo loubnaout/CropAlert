@@ -117,6 +117,11 @@ This way you can simulate both:
   
 ![agro-farm-done](https://github.com/user-attachments/assets/fe41c1d0-f5b6-499e-b28d-4b5bbd2f84f9)
 
+- Send other alerts
+
+![Screenshot from 2025-06-23 16-07-06](https://github.com/user-attachments/assets/96f9bea6-4ccb-49fd-87f8-04080c2a9deb)
+  
+
 ## ⚙️ Backend Integration
 
 
@@ -135,6 +140,7 @@ Manage user authentication
 - Verify you've selected the correct **role** (Farmer / Agronomist)  
 
 #### 🗺️ Map Not Loading
+
 
 - Check your **internet connection**  
 - Ensure your **browser allows content** from OpenStreetMap  
