@@ -12,7 +12,7 @@ Develop a real-time platform where:
 
 ---
 
-> 💡 **Stack:** Python , HTML5 , CSS, JavaScript (ES6+) - For all interactive functionality, WebSocket, Leaflet.js , OpenStreetMap
+> 💡 **Stack:** Python ,Django, WebSocket , HTML5 , CSS, JavaScript (ES6+) - For all interactive functionality, WebSocket, Leaflet.js , OpenStreetMap
 
 ---
 
