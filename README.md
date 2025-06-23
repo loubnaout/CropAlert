@@ -74,9 +74,11 @@ This way you can simulate both:
 ### 🔓 Authentication
 1. Click **Get Started** on the animated intro screen
 ![intro](https://github.com/user-attachments/assets/ac5aed85-e4da-4959-a627-3c4b72278ccf)
-2. Select your role: **Farmer** on one side, and **Agronomist** on the other**Agronomist**
+2. Select your role: **Farmer** on one side, and on the other**Agronomist**
 ![choose-who](https://github.com/user-attachments/assets/d99ca208-029e-44d3-b28e-ce5d8572314e)
 4. Enter login credentials provided above
+**Farmer Login:** `username=farmer`, `password=1234`
+**Agronomist Login:** `username=agronomist`, `password=1234`
 ![login](https://github.com/user-attachments/assets/544c0709-090e-44f9-81c6-3637ed8c71e7)
 ### 📡 Real-time Dashboard
 - Farmers: Receive and view alerts
