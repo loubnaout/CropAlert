@@ -73,7 +73,7 @@ Develop a real-time platform where:
 - python server.py #or python3 server.py
 
 Using your file explorer (not the terminal):
-  - Navigate to the cropalert/alertts folder.
+  - Navigate to the `cropalert/alerts` folder, then enter the `templates` directory.
   - Locate the alerts.html file, right-click it, and choose "Open with firefox" (or your preferred browser).
   - Copy the URL from the browser’s address bar
   - Open a new browser window.
